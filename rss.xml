@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Capitano Music Studio ]]></title>
+        <description><![CDATA[Capitano Music Studio ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 17:54:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About GayLyn ]]></title>
+            <description><![CDATA[<p>GayLyn Capitano’s degrees include a Bachelor and Master of Music along with doctoral studies in piano performance from the Florida State University, under Dr. Carolyn Bridger and Leonard Mastrogiacomo. Mrs. Capitano holds a Certificate of Performance from the International Institute of Chamber Music held at the Munich Conservatory. She has studied at the Cleveland Institute of Music under Clifford Curzban and under James Smolko. Joerg Demus and the Alban Berg Quartet have been among her coaches. GayLyn studied for nine years with Lucille Dworshak, a student  of Boris Goldovsky.</p>]]></description>
+            <link>undefinedabout-gaylyn/index.html</link>
+            <guid isPermaLink="false">a3e51463-99b5-4a0b-8b71-0b12bc972921</guid>
+            <pubDate>Mon, 09 May 2016 17:54:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
