@@ -1,0 +1,28 @@
+name: 'Capitano Music Studio '
+favicon: null
+layout_spectrum: 0.8140255978796631
+typography_spectrum: 0.8554776473902166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3255028403364122
+  lightness: 0.00916883978061378
+  saturation: 0.15914349746890366
+  rhythmicContrast: 0.18693970167078078
+purpose: []
