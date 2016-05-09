@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Capitano Music Studio ]]></title>
-        <description><![CDATA[Capitano Music Studio ]]></description>
+        <title><![CDATA[Ocala's Piano Studio ]]></title>
+        <description><![CDATA[Ocala's Piano Studio ]]></description>
         <link>https://thegrid.ai/capitano-music-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 18:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 20:05:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/capitano-music-studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Meet the teacher]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/capitano-music-studio/about-gaylyn/index.html</link>
             <guid isPermaLink="false">a3e51463-99b5-4a0b-8b71-0b12bc972921</guid>
             <pubDate>Mon, 09 May 2016 18:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why Piano?</p>]]></description>
+            <link>https://thegrid.ai/capitano-music-studio/why-piano/index.html</link>
+            <guid isPermaLink="false">b4e67e47-952f-4345-859f-8cf05a9cd867</guid>
+            <pubDate>Mon, 09 May 2016 20:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
