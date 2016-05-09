@@ -4,7 +4,7 @@
         <description><![CDATA[Ocala's Piano Studio ]]></description>
         <link>https://thegrid.ai/capitano-music-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 20:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 20:57:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/capitano-music-studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Meet the teacher]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/capitano-music-studio/about-gaylyn/index.html</link>
             <guid isPermaLink="false">a3e51463-99b5-4a0b-8b71-0b12bc972921</guid>
             <pubDate>Mon, 09 May 2016 20:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Piano?]]></title>
+            <description><![CDATA[<article><h1>Why Piano?</h1><p>Ocala offers our children many mind nurturing activities. From horseback riding to soccer, your school aged child probably already has a full schedule. If you are asking yourself, “should my child add piano classes to their list of things to do," consider the benefits that come with signing your young one up for lessons. Maybe he or she won’t be the next Beethoven, but they’ll certainly have an easier time learning math, practicing good manners such as patience and dedication, and becoming a team player.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ed7edc9d6886837774acb25b0bde7f65bc5d4bb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/capitano-music-studio/why-piano/index.html</link>
+            <guid isPermaLink="false">b4e67e47-952f-4345-859f-8cf05a9cd867</guid>
+            <pubDate>Mon, 09 May 2016 20:57:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sorry, Kids, Piano Lessons Make You Smarter - Forbes]]></title>
@@ -26,13 +33,6 @@
             <link>http://www.pbs.org/parents/education/music-arts/the-benefits-of-music-education/</link>
             <guid isPermaLink="false">06d38b93-4343-4d9d-80f8-6e3a051ee34e</guid>
             <pubDate>Mon, 09 May 2016 20:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Piano?]]></title>
-            <description><![CDATA[<article><h1>Why Piano?</h1><p>Ocala offers our children many mind nurturing activities. From horseback riding to soccer, your school aged child probably already has a full schedule. If you are asking yourself, “should my child add piano classes to their list of things to do," consider the benefits that come with signing your young one up for lessons. Maybe he or she won’t be the next Beethoven, but they’ll certainly have an easier time learning math, practicing good manners such as patience and dedication, and becoming a team player.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ed7edc9d6886837774acb25b0bde7f65bc5d4bb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/capitano-music-studio/why-piano/index.html</link>
-            <guid isPermaLink="false">b4e67e47-952f-4345-859f-8cf05a9cd867</guid>
-            <pubDate>Mon, 09 May 2016 20:32:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
