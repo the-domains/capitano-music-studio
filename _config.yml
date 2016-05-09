@@ -1,6 +1,6 @@
 name: 'Capitano Music Studio '
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.26003
 typography_spectrum: 0.13831
 title: "Ocala's Piano Studio "
 cta:
@@ -22,8 +22,8 @@ color:
     - '#dbd2ca'
     - '#7b6960'
     - '#9c473f'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.875
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0
 purpose: []
