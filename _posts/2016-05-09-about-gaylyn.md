@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'GayLyn Capitano’s degrees include a Bachelor and Master of Music along with doctoral studies in piano performance from the Florida State University, under Dr. Carolyn Bridger and Leonard Mastrogiacomo. Mrs. Capitano holds a Certificate of Performance from the International Institute of Chamber Music held at the Munich Conservatory. She has studied at the Cleveland Institute of Music under Clifford Curzban and under James Smolko. Joerg Demus and the Alban Berg Quartet have been among her coaches. GayLyn studied for nine years with Lucille Dworshak, a student of Boris Goldovsky.'
-datePublished: '2016-05-09T18:22:49.213Z'
-dateModified: '2016-05-09T18:22:31.970Z'
+datePublished: '2016-05-09T18:30:04.211Z'
+dateModified: '2016-05-09T18:29:52.494Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-about-gaylyn.md
@@ -21,6 +21,8 @@ url: about-gaylyn/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c77ac70-0b3a-4971-b530-8bc4d3e61773.jpg)
+
 GayLyn Capitano's degrees include a Bachelor and Master of Music along with doctoral studies in piano performance from the Florida State University, under Dr. Carolyn Bridger and Leonard Mastrogiacomo. Mrs. Capitano holds a Certificate of Performance from the International Institute of Chamber Music held at the Munich Conservatory. She has studied at the Cleveland Institute of Music under Clifford Curzban and under James Smolko. Joerg Demus and the Alban Berg Quartet have been among her coaches. GayLyn studied for nine years with Lucille Dworshak, a student of Boris Goldovsky.
 
 Performances, both nationally and internationally, have included solo and chamber works for piano and for harp. As a piano soloist, she has performed with the Florida Orchestra and the Central Florida Symphony Orchestra. Mrs. Capitano has served as principal keyboardist for the Ocala Symphony Orchestra and Choir since 1989\. She has played in the University Symphony Orchestra at the University of Florida, and is the pianist for the Central Florida Master Choir. GayLyn is currently an adjunct professor of piano and vocal and instrumental accompanist for The College of Central Florida. Active memberships include the Florida State Music Teachers Association, Federation of Music Clubs, and the National Piano Guild. Mrs. Capitano has had thirty-five years of teaching experience and has presented a piano master class at the University of Florida. 
