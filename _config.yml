@@ -2,6 +2,7 @@ name: 'Capitano Music Studio '
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.76025
+title: "Ocala's Piano Studio "
 cta:
   domain: null
   bucket: null
