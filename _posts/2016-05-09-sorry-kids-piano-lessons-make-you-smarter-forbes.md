@@ -16,8 +16,8 @@ keywords:
   - lessons
   - studies
 description: ''
-datePublished: '2016-05-12T22:28:26.742Z'
-dateModified: '2016-05-12T22:28:16.653Z'
+datePublished: '2016-05-12T23:06:30.243Z'
+dateModified: '2016-05-12T23:06:24.097Z'
 author: []
 related: []
 app_links: []
@@ -35,5 +35,3 @@ _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddb91da3-3691-412b-b8be-70d221aae57a.jpg)
-
-<article style=""><h1>Sorry, Kids, Piano Lessons Make You Smarter - Forbes</h1><p>It's sure to be music to parents' ears: After nine months of weekly training in piano or voice, new research shows young students' IQs rose nearly three points more than their untrained peers.</p><img src="http://i.forbesimg.com/media/assets/forbes_1200x1200.jpg" /></article>
