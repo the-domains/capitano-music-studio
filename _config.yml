@@ -1,6 +1,6 @@
 name: 'Capitano Music Studio '
 favicon: null
-layout_spectrum: 0.59936
+layout_spectrum: 0
 typography_spectrum: 0.9499
 title: 'Capitano Music Studio '
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000a00'
-    - '#c30821'
-    - '#99a4a8'
-    - '#766344'
-    - '#106f98'
+    - '#ffffff'
+    - '#392620'
+    - '#9b6e3b'
+    - '#ada7a9'
+    - '#fbab57'
   brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
