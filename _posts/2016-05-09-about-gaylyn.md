@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'GayLyn Capitano’s degrees include a Bachelor and Master of Music along with doctoral studies in piano performance from the Florida State University, under Dr. Carolyn Bridger and Leonard Mastrogiacomo. Mrs. Capitano holds a Certificate of Performance from the International Institute of Chamber Music held at the Munich Conservatory. She has studied at the Cleveland Institute of Music under Clifford Curzban and under James Smolko. Joerg Demus and the Alban Berg Quartet have been among her coaches. GayLyn studied for nine years with Lucille Dworshak, a student of Boris Goldovsky.'
-datePublished: '2016-05-12T23:13:12.910Z'
-dateModified: '2016-05-12T23:13:11.285Z'
+datePublished: '2016-05-12T23:41:34.664Z'
+dateModified: '2016-05-12T23:41:26.394Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-09-about-gaylyn.md
 authors: []
 publisher:
